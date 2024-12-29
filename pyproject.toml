@@ -1,0 +1,13 @@
+[project]
+name = "readability-score"
+version = "2024.12.29"
+requires-python = ">=3.8"
+dependencies = ["nltk", "argparse"]
+
+authors = [{ name = "Raman But-Husaim" }]
+
+readme = "README.md"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/RamanBut-Husaim/readability-score.git"
